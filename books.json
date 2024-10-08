@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Classic Fiction",
+    "published_year": 1960,
+    "isbn": "978-0-06-112008-4"
+  },
+  {
+    "id": 2,
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Dystopian",
+    "published_year": 1949,
+    "isbn": "978-0-452-28423-4"
+  },
+  {
+    "id": 3,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Classic Fiction",
+    "published_year": 1925,
+    "isbn": "978-0-7432-7356-5"
+  },
+  {
+    "id": 4,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "genre": "Classic Fiction",
+    "published_year": 1951,
+    "isbn": "978-0-316-76948-0"
+  },
+  {
+    "id": 5,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "Romance",
+    "published_year": 1813,
+    "isbn": "978-0-19-953556-9"
+  },
+  {
+    "id": 6,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "published_year": 1937,
+    "isbn": "978-0-618-00221-3"
+  },
+  {
+    "id": 7,
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "genre": "Dystopian",
+    "published_year": 1953,
+    "isbn": "978-0-7432-4722-1"
+  },
+  {
+    "id": 8,
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "genre": "Gothic Fiction",
+    "published_year": 1847,
+    "isbn": "978-0-14-243720-9"
+  },
+  {
+    "id": 9,
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "published_year": 1954,
+    "isbn": "978-0-618-00222-0"
+  },
+  {
+    "id": 10,
+    "title": "Animal Farm",
+    "author": "George Orwell",
+    "genre": "Political Satire",
+    "published_year": 1945,
+    "isbn": "978-0-452-28424-1"
+  }
+]
